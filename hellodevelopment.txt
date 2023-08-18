@@ -1,3 +1,0 @@
-This file is made to make the difference between main and development branch
-
-This changes is for reverting
